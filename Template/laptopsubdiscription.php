@@ -120,7 +120,7 @@
                 <!-- size -->
                 <div class="size my-3">
                     <h6 class="font-baloo">Size:</h6>
-                     <p class="font-rale font-size-14"> <td class="font-size-20 text-danger"><span><?php echo $new['new_size'] ?? 0; ?></span>
+                     <p class="font-rale font-size-14"> <td class="font-size-20 text-danger"><span><?php echo $sub['sub_size'] ?? 0; ?></span>
                  
                 </div>
                 <!-- !size -->
@@ -131,7 +131,7 @@
             <div class="col-12">
                 <h6 class="font-rubik">Product Description</h6>
                 <hr>
-                <p class="font-rale font-size-14"> <td class="font-size-20 text-danger"><span><?php echo $new['new_description'] ?? 0; ?></span>
+                <p class="font-rale font-size-14"> <td class="font-size-20 text-danger"><span><?php echo $sub['sub_discription'] ?? 0; ?></span>
             </div>
         </div>
     </div>

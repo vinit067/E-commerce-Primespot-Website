@@ -37,7 +37,7 @@ $in_cart = $Cart->getCartId($new_releases->getData('cart'));
                                 <span><i class="far fa-star"></i></span>
                             </div>
                             <div class="price py-2">
-                                <span>₹<?php echo $item['item_price'] ?? 0 ?></span><br>
+                                <span>$<?php echo $item['item_price'] ?? 0 ?></span><br>
                                 
                             </div>
                             <form method="post">

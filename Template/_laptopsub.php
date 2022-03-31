@@ -24,7 +24,7 @@
             <div class="card mb-3" style="max-width: full" >
             <div class="row g-0">
                 <div class="col-md-4" style="max-width:200px; margin:10px">
-                <a href="<?php printf('%s?sub_id=%s', 'laptopsubdiscription.php',  $sub['sub_id']); ?>"><img src="<?php echo $sub['sub_image'] ?? "./assets/apple xs.jpg"; ?>" alt="product1" class="img-fluid"></a>
+                <a href="<?php printf('%s?sub_id=%s', 'laptopctgdis.php',  $sub['sub_id']); ?>"><img src="<?php echo $sub['sub_image'] ?? "./assets/apple xs.jpg"; ?>" alt="product1" class="img-fluid"></a>
             </div>
             <div class="col-md-8">
                     <div class="card-body">
