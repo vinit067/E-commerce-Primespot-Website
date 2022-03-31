@@ -47,13 +47,13 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav m-auto font-rubik">
+            <ul class=" m-auto font-rubik">
               
-               
-                <li class="dropdown">
+        
+            <div class="dropdown">
                     <a class="dropbtn" href="index.php"><i class="fas fa-home"></i> Home</a> 
-                </li>
-                &nbsp;&nbsp;
+                    </div>
+                &nbsp;&nbsp; &nbsp;&nbsp;
                 <div class="dropdown">
   <div class="dropbtn">Electronics</div>
   <div class="dropdown-content">
@@ -94,7 +94,7 @@
   </div>
 </div>  
 
-&nbsp;&nbsp;
+&nbsp;&nbsp; 
                 <li class="dropdown">
                     <a class="dropbtn" href="aboutus.php">About Us <i class="fas fa-user"   font-size: 16px;></i></a>
                 </li>

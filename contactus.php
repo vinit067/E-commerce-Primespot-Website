@@ -27,10 +27,11 @@ try{
   }
 ?>
 
+
 <br>
 
 <!DOCTYPE html>
-<html lang="enss">
+<html lang="en">
 
     <div class="content-23">
         <h1>Contact Us</h1>
