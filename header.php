@@ -53,7 +53,7 @@
             <div class="dropdown">
                     <a class="dropbtn" href="index.php"><i class="fas fa-home"></i> Home</a> 
                     </div>
-                &nbsp;&nbsp; &nbsp;&nbsp;
+                &nbsp;&nbsp;
                 <div class="dropdown">
   <div class="dropbtn">Electronics</div>
   <div class="dropdown-content">
@@ -94,12 +94,17 @@
   </div>
 </div>  
 
-&nbsp;&nbsp; 
+&nbsp;
                 <li class="dropdown">
                     <a class="dropbtn" href="aboutus.php">About Us <i class="fas fa-user"   font-size: 16px;></i></a>
                 </li>
             </ul>
             
+            <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        
+      </form>
+      &nbsp; &nbsp; 
             <form action="#" class="font-size-14 font-rale">
                 <a href="cart.php" class="py-2 rounded-pill color-primary-bg">
                     <span class="font-size-16 px-2 text-white"><i class="fas fa-shopping-cart"></i></span>
@@ -111,9 +116,6 @@
     <!-- !Primary Navigation -->
 
 </header>
-<!-- !start #header -->
-
-<!-- start #main-site -->
 <main id="main-site">
 <style>
   .dropdown {
@@ -135,6 +137,11 @@
   min-width: 50px;
   box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
   z-index: 20;
+}
+.btn {
+ color: darkblue;
+ 
+
 }
 
 .dropdown-content a {
