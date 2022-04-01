@@ -43,7 +43,7 @@
                 <table class="my-3">
                     <tr class="font-rale font-size-14">
                         <td>M.R.P:</td>
-                        <td><strike>162.00</strike></td>
+                        <td>162.00</td>
                     </tr>
                     <tr class="font-rale font-size-14">
                         <td>Deal Price:</td>
