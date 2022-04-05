@@ -96,7 +96,7 @@
 
 &nbsp;
                 <li class="dropdown">
-                    <a class="dropbtn" href="aboutus.php">About Us <i class="fas fa-user"   font-size: 16px;></i></a>
+                    <a class="dropbtn" href="aboutus.php">About Us <font-size: 16px;></a>
                 </li>
             </ul>
             
